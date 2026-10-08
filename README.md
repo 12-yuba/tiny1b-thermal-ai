@@ -1,5 +1,13 @@
 # Tiny1-b 热成像 AI 修改版
 
+> **📥 下载（当前版本 v4.0-r1）**
+> - [`Tiny1b_v4.0-r1_A.apk`](Tiny1b_v4.0-r1_A.apk?raw=true)　39,581,912 B
+> - [`Tiny1b_v4.0-r1_B.apk`](Tiny1b_v4.0-r1_B.apk?raw=true)　39,581,912 B
+> - 或到 [Releases 页面](../../releases/latest) 下载（那里还有旧版 v4.0）
+>
+> 两个包实测差异只在 `classes5.dex`：`A` = `denoise_preset_b1`，`B` = `denoise_preset_b2`（降噪档位不同），
+> 分别对应 Release 附件里 `..._.1_...` 和 `..._.2_...` 那两个文件。
+
 > **作品来自 Lyu 原版修改，使用 Gemini 完成补全。**
 >
 > **【安全提醒】** 本程序为纯本地代码优化补全，理论无任何恶意程序，请放心使用。
